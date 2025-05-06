@@ -6,10 +6,14 @@
 - 👀 I’m interested in networking and cyber-security
 - ⚙️ I develop open-source projects with a focus on:
   - ✅ Distributed Systems
-  - ✅ Network Intrusion, Detection, and Prevention Systems
   - ✅ Offensive Security
-- 🌱 I’m currently learning networking, SDN, SDR, cybersecurity, and a lot more!
-- 💞️ I’m looking to collaborate on networking, development, and penetration testing 
+  - ✅ Combat systems
+  - ✅ Zero-trust architecture
+  - ✅ Distributed  Systems
+  - ✅ Network Intrusion, Detection, and Prevention Systems
+
+- 🌱 I’m currently learning networking, SDN, SDR, cybersecurity, Sustainability and a lot more!
+- 💞️ I’m looking to collaborate on Computer networking, development,  and Ethical Hacking
 - 📫 How to reach me: [netg3ek@gmail.com](mailto:netg3ek@gmail.com)
 
 <!-- GitHub Stats -->
