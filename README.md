@@ -84,13 +84,26 @@ Grafana • Prometheus • CloudTrail • Athena • Nagios • Zabbix • Fail2
 - 💡 Building tools people actually use  
 
 ---
+<!-- GitHub Stats -->
+<img align="left" width="430" height="auto" alt="netgee-k's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=netgee-k&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true&count_private=true&include_all_commits=true">
+
+<!-- Top Languages -->
+<img align="right" width="359" height="auto" alt="netgee-k's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netgee-k&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact">
+
+<!-- Centered Contribution Stats -->
+<p align="center">
+  <img alt="netgee-k's Contributions" src="https://github-contribution-stats.vercel.app/api/?username=netgee-k&show_icons=true&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117" width="100%">
+</p>
+
+
+## Badges
 
 ### 🌍 Let's Connect
 
 | Platform | Link |
 |----------|------|
-| 🌐 GitHub | [netgee-k](https://github.com/netgee-k) |
-| 🌍 Location | Kenya 🇰🇪 |
+| 🌐 Email | [netgee-k](mailto:netg3ek@gmail.com) |
+| 🌍 Location |NBO Kenya 🇰🇪 |
 
 ---
 ### 💻 Motto
