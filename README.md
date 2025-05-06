@@ -1,9 +1,8 @@
 <div align="center">
-  <h1>👋🏾 Hey, I'm Kimani — Alias <strong>netgee-k</strong></h1>
+  <h1>👋🏾 Hello World! , I'm Netgee-k</h1>
   <p>Network Engineer • Cybersecurity Specialist • Builder of Unbreakable Systems</p>
 </div>
 
----
 
 <table>
 <tr>
@@ -62,6 +61,26 @@ Grafana • Prometheus • CloudTrail • Athena • Nagios • Zabbix • Fail2
 </tr>
 </table>
 
+
+
+<!-- GitHub Stats -->
+<img align="left" width="430" height="auto" alt="netgee-k's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=netgee-k&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true&count_private=true&include_all_commits=true">
+
+<!-- Top Languages -->
+<img align="right" width="359" height="auto" alt="netgee-k's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netgee-k&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact">
+
+<!-- Centered Contribution Stats -->
+<p align="center">
+  <img alt="netgee-k's Contributions" src="https://github-contribution-stats.vercel.app/api/?username=netgee-k&show_icons=true&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117" width="100%">
+</p>
+
+<!-- Badges and Contribution Stats side by side -->
+<p align="center">
+  <!-- Badges -->
+  <img src="https://img.shields.io/github/followers/netgee-k?style=social&color=0ff54c" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/netgee-k?style=social&color=0ff54c" alt="GitHub stars">
+</p>
+
 ---
 
 ### 🧩 Projects
@@ -83,29 +102,13 @@ Grafana • Prometheus • CloudTrail • Athena • Nagios • Zabbix • Fail2
 - 🥾 Hiking 
 - 💡 Building tools people actually use  
 
----
-<!-- GitHub Stats -->
-<img align="left" width="430" height="auto" alt="netgee-k's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=netgee-k&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true&count_private=true&include_all_commits=true">
-
-<!-- Top Languages -->
-<img align="right" width="359" height="auto" alt="netgee-k's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netgee-k&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact">
-
-<!-- Centered Contribution Stats -->
-<p align="center">
-  <img alt="netgee-k's Contributions" src="https://github-contribution-stats.vercel.app/api/?username=netgee-k&show_icons=true&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117" width="100%">
-</p>
-
-
-## Badges
 
 ### 🌍 Let's Connect
 
 | Platform | Link |
 |----------|------|
 | 🌐 Email | [netgee-k](mailto:netg3ek@gmail.com) |
-| 🌍 Location |NBO Kenya 🇰🇪 |
+| 🌍 Location | NBO Kenya 🇰🇪 |
 
----
 ### 💻 Motto
 > **"Build like a hacker. Secure like a paranoid. Share like an open-source hero."**
----
