@@ -11,7 +11,7 @@
 ### 🚀 About Me
 - 🎯 Passionate about Networking, Cybersecurity & Tech for Good  
 - 🔒 Secure, scalable, and resilient infrastructure buil  
-- 🛠️ Currently building projects related to :
+- 🛠️ Currently building projects with focus on :
   - 🔗 Distributed Systems
   - 🛡️ Air-Gapped + Hardened Environments
   - 🔐 Zero Trust Architecture
