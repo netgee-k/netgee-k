@@ -1,80 +1,98 @@
-## Hacktivity
+<div align="center">
+  <h1>👋🏾 Hey, I'm Kimani — Alias <strong>netgee-k</strong></h1>
+  <p>Network Engineer • Cybersecurity Specialist • Builder of Unbreakable Systems</p>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=netgee-k&color=0ff54c)
+---
 
-- 👋 Hi, I’m @netgee-k
-- 👀 I’m interested in networking and cyber-security
-- ⚙️ I develop open-source projects with a focus on:
-  - ✅ Distributed Systems
-  - ✅ Offensive Security
-  - ✅ Combat systems
-  - ✅ Zero-trust architecture
-  - ✅ Distributed  Systems
-  - ✅ Network Intrusion, Detection, and Prevention Systems
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🌱 I’m currently learning networking, SDN, SDR, cybersecurity, Sustainability and a lot more!
-- 💞️ I’m looking to collaborate on Computer networking, development,  and Ethical Hacking
-- 📫 How to reach me: [netg3ek@gmail.com](mailto:netg3ek@gmail.com)
+### 🚀 About Me
+- 🎯 Passionate about Networking, Cybersecurity & Tech for Good  
+- 🔒 Secure, scalable, and resilient infrastructure buil  
+- 🛠️ Currently building projects related to :
+  - 🔗 Distributed Systems
+  - 🛡️ Air-Gapped + Hardened Environments
+  - 🔐 Zero Trust Architecture
+  - 🛰️ Offensive Security and Combat systems
+  - 🕵🏾‍♂️ NIDPS / SOC tools
 
-<!-- GitHub Stats -->
-<img align="left" width="430" height="auto" alt="netgee-k's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=netgee-k&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true&count_private=true&include_all_commits=true">
+- 🌱 Exploring:
+  - 📡 Software-Defined Radio
+  - ☁️ Edge, Serverless & Cloud-Native
+  - 🌍 Green Tech & Sustainable Infra
+  - 🔄 DevOps as Art
 
-<!-- Top Languages -->
-<img align="right" width="359" height="auto" alt="netgee-k's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netgee-k&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact">
+- 🤝 Looking collaborate on:
+  - 🧪 Ethical Hacking / Pen-testing
+  - 🧵 Backend & Infrastructure Engineering
+  - 🧠 Systems Design & Architecture
 
-<!-- Centered Contribution Stats -->
-<p align="center">
-  <img alt="netgee-k's Contributions" src="https://github-contribution-stats.vercel.app/api/?username=netgee-k&show_icons=true&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117">
-</p>
+- 📬 Contact: `netg3ek@gmail.com`
 
-## Badges
+</td>
+<td width="50%" valign="top">
 
-![GitHub followers](https://img.shields.io/github/followers/netgee-k?style=social&color=0ff54c)
-![GitHub stars](https://img.shields.io/github/stars/netgee-k?style=social&color=0ff54c)
+### 🧠 Tech Stack
 
-## Technologies & Tools
+**💬 Languages**  
+Python • JavaScript • TypeScript • Bash • Go (learning) • SQL • C • HTML/CSS
 
-- **Python**
-- **JavaScript**
-- **TypeScript**
-- **Bash**
-- **Django**
-- **Flask**
-- **Angular**
-- **React**
-- **Cisco:** Routers, Switches, ASA, Nexus
-- **TCP/IP, BGP, OSPF, EIGRP**
-- **Wireshark**
-- **Nmap**
-- **NetFlow**
-- **Linux:** Ubuntu, CentOS, Kali Linux
-- **Windows Server**
-- **Metasploit**
-- **Burp Suite**
-- **aircrack-ng**
-- **VMware**
-- **VirtualBox**
-- **Docker**
-- **Kubernetes**
-- **Nagios**
-- **Prometheus**
-- **Grafana**
-- **Zabbix**
-- **AWS:** EC2, S3, Lambda, CloudFormation
-- **Azure**
-- **Git**
-- **Jenkins**
-- **Terraform**
-- **GNS3**
-- **Netcat**
-- **OpenVAS**
+**🧰 Frameworks**  
+Flask • Django • FastAPI • Node.js • React • Angular • Material UI • Tailwind
 
-## Hobbies
+**☁️ Cloud & DevOps**  
+AWS (EC2, S3, Lambda, CFN, CW) • Azure • Docker • K8s • Terraform • GitHub Actions • Jenkins • WSL • LocalStack
 
-- **Tinkering** with tech projects and gadgets
-- **Hiking** and exploring nature
+**🔐 Security**  
+Metasploit • Burp • Wireshark • aircrack-ng • OpenVAS • zsteg • Nmap • OSINT • ZeroTier • Firewall/ACLs • Forensics
 
-<!---
-netgee-k/netgee-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**🌐 Networking**  
+Cisco (R/S) • EIGRP • BGP • OSPF • MikroTik • VPNs • VLANs • NAT • NetFlow • GNS3 • SDN (learning)
+
+**📡 Infra & Virtualization**  
+Proxmox • VMware • PXE Boot • Custom VM Images • Tiny Core • Kali • Ubuntu • Windows Server • SystemD • WSL2
+
+**📈 Monitoring & Logs**  
+Grafana • Prometheus • CloudTrail • Athena • Nagios • Zabbix • Fail2Ban • LogWatch
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧩 Projects
+- 🛰️ **Radar Score** – USSD App (Flask + Africa's Talking + Sports API)  
+- ☁️ **ISP Billing System** – M-Pesa + MikroTik + Automation  
+- ⚙️ **ELIMU** – School App (Flask + Angular + LocalStack)  
+- 🧠 **ZeroTier Playground** – L2 Python Virtual Switch  
+- 🛡️ **Audit Trail** – Oracle RDS + Athena + CloudTrail
+
+---
+
+
+
+### 🏕️ Interests & Hobbies
+- 🔧 Tinkering with technology 
+- 🧱 Woodworking 
+- 📡 Drones, SDR, Satellite Comms  
+- 🛠️ Robotics IoT + Smart Homes   
+- 🥾 Hiking 
+- 💡 Building tools people actually use  
+
+---
+
+### 🌍 Let's Connect
+
+| Platform | Link |
+|----------|------|
+| 🌐 GitHub | [netgee-k](https://github.com/netgee-k) |
+| 🌍 Location | Kenya 🇰🇪 |
+
+---
+### 💻 Motto
+> **"Build like a hacker. Secure like a paranoid. Share like an open-source hero."**
+---
