@@ -26,6 +26,7 @@
 
 - 🤝 Looking collaborate on:
   - 🧪 Ethical Hacking / Pen-testing
+  - 🔎 Digital and Deadbox Forensics 
   - 🧵 Backend & Infrastructure Engineering
   - 🧠 Systems Design & Architecture
 
@@ -37,7 +38,7 @@
 ### 🧠 Tech Stack
 
 **💬 Languages**  
-Python • JavaScript • TypeScript • Bash • Go (learning) • SQL • C • HTML/CSS
+Python • JavaScript • Lua • Bash • Go (learning) • SQL • C • HTML/CSS
 
 **🧰 Frameworks**  
 Flask • Django • FastAPI • Node.js • React • Angular • Material UI • Tailwind
@@ -83,17 +84,6 @@ Grafana • Prometheus • CloudTrail • Athena • Nagios • Zabbix • Fail2
 
 ---
 
-### 🧩 Projects
-- 🛰️ **Radar Score** – USSD App (Flask + Africa's Talking + Sports API)  
-- ☁️ **ISP Billing System** – M-Pesa + MikroTik + Automation  
-- ⚙️ **ELIMU** – School App (Flask + Angular + LocalStack)  
-- 🧠 **ZeroTier Playground** – L2 Python Virtual Switch  
-- 🛡️ **Audit Trail** – Oracle RDS + Athena + CloudTrail
-
----
-
-
-
 ### 🏕️ Interests & Hobbies
 - 🔧 Tinkering with technology 
 - 🧱 Woodworking 
@@ -103,7 +93,7 @@ Grafana • Prometheus • CloudTrail • Athena • Nagios • Zabbix • Fail2
 - 💡 Building tools people actually use  
 
 
-### 🌍 Let's Connect
+### 🌍 Ping Me
 
 | Platform | Link |
 |----------|------|
